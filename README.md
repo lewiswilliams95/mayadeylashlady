@@ -48,26 +48,50 @@ The main background Hero image used is the Mayadeylashlady logo, which is design
 
 ### Wireframes
 #### Mobile
--   Landing Page Wireframe - [View](assets/images/homedesktop.JPG)
+-   Landing Page Wireframe - [View](assets/images/landing pagemob.png)
 
--   Home page Wireframe - [View](assets/images/mobileview.JPG)
+-   Home page Wireframe - [View](assets/images/homemob.png)
 
--   Gallery Page Wireframe - [View](assets/images/desktopcontact.JPG)
+-   Gallery Page Wireframe - [View](assets/images/gallerymob.png)
 
--   Contact/booking Page Wireframe - [View](assets/images/workdesktop.JPG)
+-   Contact/booking Page Wireframe - [View](assets/images/bookingsmob.png)
 
--   LashAcademy Page Wireframe - [View](assets/images/desktopmindwise.JPG)
+-   LashAcademy Page Wireframe - [View](assets/images/lashacademymob.png)
 #### Webview
--   Home page Wireframe - [View](assets/images/mobileview.JPG)
+-   Home page Wireframe - [View](assets/images/Home.png)
 
--   Gallery Page Wireframe - [View](assets/images/desktopcontact.JPG)
+-   Gallery Page Wireframe - [View](assets/images/Gallery.png)
 
--   Contact/booking Page Wireframe - [View](assets/images/workdesktop.JPG)
+-   Contact/booking Page Wireframe - [View](assets/images/Bookings.png)
 
--   LashAcademy Page Wireframe - [View](assets/images/desktopmindwise.JPG)
+-   LashAcademy Page Wireframe - [View](assets/images/LashAcademy.png)
 
     <h2 align="left">Features</h2>
 - Mobile first Development, however is responsive and adapts to all screen sizes.
 - Interactive elements that respond to clicks, hover and taps.
 - Inclusion of Javascript for interactivity.
 - Inclusion of booking api and google maps api.
+<h2 align="left">Technologies Used </h2>
+    
+### Languages Used
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries & Programs Used
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and the general styling of the website.
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over and also used 
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Lato' font into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons.
+1. [jQuery:](https://jquery.com/)
+    - jQuery used throughout for the scripiting of JS.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.                   
+1. [JustInMind:](https://Justinmind.com/)
+    - Justinmind was used to create the wireframes during the design process.
