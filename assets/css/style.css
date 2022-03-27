@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Zen+Tokyo+Zoo:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700');/*------------------------logo*/
+.logo {
+    background: url("../images/placeholder-image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+    min-height: 500px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
