@@ -1,108 +1,47 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="left">Milestone Project One: Mayadeylashlady</h1>
 
-Welcome USER_NAME,
+[View the live project here.](https://github.com/lewiswilliams95/mayadeylashlady)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+-The purpose of this website is to promote the a friend's local business. She already has a large social media audience as is looking to branch out with a website to attract new clients. The website will have a booking api for customers to book in appointments. I will also provide her with members only area where she will be delivering courses with acceditation- this will come at a later date.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<h2 align="left">User Experience (UX)</h2>
 
-## Gitpod Reminders
+## Project Goal
+    
+### Business Goal
+1. To create a Website for Mayadeylashlady.
+2. It will inform new and existing clients/users about the business owner, where to find the business, what services they provide.
+3. It will contain a multimedia page displaying videos and images of before and after client stories.
+4. Also will have a contact page/ booking page for enquiries and booking requests.
+5. It will contain the lash acdemy front page where marketing for the courses will be provided. At a later date the implementation of the member area.
+----
+### User Goals
+        
+#### First Time Visitor Goals
+1. For a First Time Visitor, I have created a website that provides new users with the company's history and about the owner of the business.
+2. For a First Time Visitor, I have created a site that is easy to navigate on all devices. using the hub and spoke method.
+3. For a First Time Visitor, I have created a page which shows our services that they provide and our with evidence of this within a gallery . 
+4. For a First Time Visitor, I have included links to our social media platforms to keep in touch with all news regarding the business.
+5. For a First Time Visitor, I have included a page that will act as a bookings and enquiries page to reach out to the business.
+6. For a First Time Visitor, I have created a page that acts as a marketing and information page for the upcoming lash academy.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+#### Returning User Goals
+1. For Returning Users, I have created a contact page, this will be for both enquiries with the Company  and bookings for appointments.
+2. For Returning Users, There will be updates regarding the business and the address for the salon.
+3. For Returning Users, There will be up to date links to the businesses social platforms.
+4. For Returning Users, There will be the front page for the lash academy. At a later date this will include a member login area and access to the courses.
 
-`python3 -m http.server`
+### Developer Goals
 
-A blue button should appear to click: _Make Public_,
+- **Focus**-Using HTML, CSS & Javascript, with the functionality Bootstrap and jQuery provides to create a meaningful website showcasing the importance of the company. 
+- **Definition**- We are creating the platform which will serve as a means of promoting our business and the Lash academy. 
+- **Value**- Simply we will be providing an a website for handling customer requests whilst promoting the business to a larger audience.
+----
+### Design
+#### Colour Scheme
+ The Main Colour's used on the website are; White background, black for text and the contrasting colour of cool blue for the main content. The and nav tiles will change from cool blue to a contrast colour of orange when hovering.
+#### Typography
+ The Main font used on my whole website is the Lato font, with the backup font being Sans-Serif and Serif. For the title I used Zen Tokyo Zoo in place of a actual graphically designed title. These backup fonts are used if the browser is having trouble importing from google fonts. I have used lato as it is a fresh font that preveys the business a fresh and innovative business.
 
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+#### Imagery
+The main background Hero image used is the Mayadeylashlady logo, which is designed is currently undergo a transition. Also There will be images for the businesses work.
