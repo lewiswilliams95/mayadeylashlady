@@ -45,3 +45,29 @@
 
 #### Imagery
 The main background Hero image used is the Mayadeylashlady logo, which is designed is currently undergo a transition. Also There will be images for the businesses work.
+
+### Wireframes
+#### Mobile
+-   Landing Page Wireframe - [View](assets/images/homedesktop.JPG)
+
+-   Home page Wireframe - [View](assets/images/mobileview.JPG)
+
+-   Gallery Page Wireframe - [View](assets/images/desktopcontact.JPG)
+
+-   Contact/booking Page Wireframe - [View](assets/images/workdesktop.JPG)
+
+-   LashAcademy Page Wireframe - [View](assets/images/desktopmindwise.JPG)
+#### Webview
+-   Home page Wireframe - [View](assets/images/mobileview.JPG)
+
+-   Gallery Page Wireframe - [View](assets/images/desktopcontact.JPG)
+
+-   Contact/booking Page Wireframe - [View](assets/images/workdesktop.JPG)
+
+-   LashAcademy Page Wireframe - [View](assets/images/desktopmindwise.JPG)
+
+    <h2 align="left">Features</h2>
+- Mobile first Development, however is responsive and adapts to all screen sizes.
+- Interactive elements that respond to clicks, hover and taps.
+- Inclusion of Javascript for interactivity.
+- Inclusion of booking api and google maps api.
