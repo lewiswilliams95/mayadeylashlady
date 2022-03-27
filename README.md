@@ -48,7 +48,7 @@ The main background Hero image used is the Mayadeylashlady logo, which is design
 
 ### Wireframes
 #### Mobile
--   Landing Page Wireframe - [View](assets/images/landing pagemob.png)
+-   Landing Page Wireframe - [View](assets/images/landingpagemob.png)
 
 -   Home page Wireframe - [View](assets/images/homemob.png)
 
